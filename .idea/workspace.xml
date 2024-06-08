@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf390140-4344-46ae-952f-159cc83acb4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ProjectPythonProgramacaoLinear.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programacaoLinear.py" afterDir="false" />
-    </list>
+    <list default="true" id="bf390140-4344-46ae-952f-159cc83acb4b" name="Changes" comment="ADICIONAR PROJETTO DE PROGRAMACAO LINEAR" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +35,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -61,6 +57,15 @@
       <option name="presentableId" value="Default" />
       <updated>1717288121304</updated>
     </task>
+    <task id="LOCAL-00001" summary="ADICIONAR PROJETTO DE PROGRAMACAO LINEAR">
+      <option name="closed" value="true" />
+      <created>1717290829093</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717290829093</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADICIONAR PROJETTO DE PROGRAMACAO LINEAR" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADICIONAR PROJETTO DE PROGRAMACAO LINEAR" />
   </component>
 </project>
