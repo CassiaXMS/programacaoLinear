@@ -40,3 +40,7 @@ print("\n SOLUÇÃO ÓTIMA: \n")
 print(" Qtd. do P1 a ser produzido: ", resultado.x[0])
 print(" Qtd. do P2 a ser produzido: ", resultado.x[1])
 print(" Lucro Total: ", -resultado.fun)  # Negar o valor para obter o lucro máximo
+
+print("\n\n Explicação: A quantidade de produto P1 a ser produzido é 5 unidades, \n"
+ " e nenhuma unidade de produto P2 é produzida." 
+ "\n O lucro total máximo é de R$ 9500,00.")
