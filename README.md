@@ -1,10 +1,11 @@
 
 # Programação Linear 
 
-### Exercício de programação linear utilizando o método matricial usando linguagem de programação.
+### Exercício de programação linear utilizando o método matricial usando linguagem de programação em Python.
+---
 
-
-**Exercício:** Uma companhia fabrica dois produtos P1 e P2 que utilizam os mesmos recursos 
+**Exercício:** 
+Uma companhia fabrica dois produtos P1 e P2 que utilizam os mesmos recursos 
 produtivos: matéria-prima, forja e polimento. Cada unidade de P1 exige 4 horas de 
 forjaria, 2 horas de polimento e utiliza 100 unidade de matéria-prima. Cada unidade de 
 P2 requer 2 horas de forjaria, 3 horas de polimento e 200 unidade de matéria-prima. O 
